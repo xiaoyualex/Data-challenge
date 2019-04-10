@@ -1,0 +1,1 @@
+* */12 * * * python3 /app/collect_data.py >> /var/log/cron.log 2>&1

@@ -1,0 +1,1 @@
+* */12 * * * /usr/local/bin/python3 ~/Desktop/data_challenge/collect_data.py >> ~/Desktop/data_challenge/collect_data.py.log 2>&1
